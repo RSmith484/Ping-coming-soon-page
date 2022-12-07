@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/RSmith484/Ping-coming-soon-page.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://rsmith484.github.io/Ping-coming-soon-page/
 
 ## My process
 
